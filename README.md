@@ -5,13 +5,13 @@
 
 **UnityStar Bank** is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
 
-We came to know about this through an internal link and approached UnityStar Bank with a proposal to implement this project. However, strategy director of the Bank, is skeptical and asked us to do a pilot project with the sample data before handing us the full project.
+We came to know about this through an internal link and approached UnityStar Bank with a proposal to implement this project. However, the strategy director of the Bank, is skeptical and asked us to do a pilot project with the sample data before handing us the full project.
 
 
 ## Description of Datasets given by the company
 
-*\*The Bank provided a sample dataset of 4000 customers across five cities on their online spend and other details as CSV files.
-This description will give us the idea about the initial structure of the data*
+*\*The Bank provided a sample dataset of 4000 customers across five cities on their online spending and other details as CSV files.
+This description will give us an idea about the initial structure of the data*
 
 
 **Column Description for dim_customers :**
@@ -43,16 +43,16 @@ This description will give us the idea about the initial structure of the data*
 
 ## Methodology used / Workflow
 
-- We have leveraged Power Query to clean and pre-process the data thuroughly.
-- We have leveraged "Measures", "Calculated Columns", "Parameters" and "Bookmarks" for the calculations and visual interactivity and add functionality to the report.
-- We have used "Pie charts", "Column Charts", "Cards", "Bar Charts" and "Matrix" to visualize the report.
-- After analysis we documented the insights and recommendations to a pdf file as a final result.
+- We have leveraged Power Query to clean and pre-process the data thoroughly.
+- We have leveraged "Measures", "Calculated Columns", "Parameters", and "Bookmarks" for the calculations and visual interactivity and add functionality to the report.
+- We have used "Pie charts", "Column Charts", "Cards", "Bar Charts", and "Matrix" to visualize the report.
+- After analysis, we documented the insights and recommendations to a pdf file as a final result.
 
 ## Files
 
 **Customer_Behaviour_Analysis_of_Bank.pbix :** This contains the main Power BI report where the visualization has been done for analysis.*(Contains 4 pages, Dashboard - for overall idea about credit card utilization, Demographics - contains customer demographics related information, Spending Analysis - contains customers' spending behaviour related information, and Income Utilization - contains how customers utilize their income)*
 
-**Customer_Behaviour_Data_Analysis.pdf :** This is the documentation of analysis, insights and recommendations as final result.
+**Customer_Behaviour_Data_Analysis.pdf :** This is the documentation of analysis, insights, and recommendations as the final result.
 
 ## Creator
 
